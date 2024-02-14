@@ -1,14 +1,24 @@
 # Pool-Appointment-System
-Here is my Pool-Appointment-System. 
-You can create an account and log in to system. 
-You cannot create an account for Managers.
-If lifeguard or servant create an account, an account creation request is created and manager can see that request. To open an account manager must accept the request for both servant and lifeguard.
-In this project, txt files work as a database. 
-If you are a student, you can book an appointment for a time you want (if there is any slot for it) to swim. 
-Pool is not open on Monday. 
-JFrame is used in this project.
-In order to see whole project running, you can check my Google Drive.
-My Google Drive: https://drive.google.com/drive/folders/1XJ52Ut-X_6YbcjVSHRzta2qxugMqxOfo?usp=sharing
+
+* Here is my Pool-Appointment-System. 
+
+* You can create an account and log in to system. 
+
+* You cannot create an account for Managers.
+
+* If lifeguard or servant create an account, an account creation request is created and manager can see that request. To open an account manager must accept the request for both servant and lifeguard.
+
+* In this project, txt files work as a database. 
+
+* If you are a student, you can book an appointment for a time you want (if there is any slot for it) to swim. 
+
+* Pool is not open on Monday. 
+
+* JFrame is used in this project.
+
+* In order to see whole project running, you can check my Google Drive.
+
+* My Google Drive: https://drive.google.com/drive/folders/1XJ52Ut-X_6YbcjVSHRzta2qxugMqxOfo?usp=sharing
 
 ![image](https://github.com/BatuUzun/Pool-Appointment-System/assets/103521291/21efbdcf-878f-4e9d-b0bf-0ac0e9e53585)
 
