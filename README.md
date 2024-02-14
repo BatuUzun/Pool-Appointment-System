@@ -2,7 +2,7 @@
 
 * Here is my Pool-Appointment-System. 
 
-* You can create an account and log in to system. 
+* You can create an account and login to system. 
 
 * You cannot create an account for Managers.
 
@@ -25,16 +25,16 @@
 # CREATING ACCOUNT
 ![image](https://github.com/BatuUzun/Pool-Appointment-System/assets/103521291/679e488e-5d8c-4ff6-8051-37a18915fd51)
 
-# STUDENT LOG IN PAGE
+# STUDENT LOGIN PAGE
 ![image](https://github.com/BatuUzun/Pool-Appointment-System/assets/103521291/8af459d0-1c86-4117-9388-bcde0b8ca88d)
 
-# LIFEGUARD LOG IN PAGE
+# LIFEGUARD LOGIN PAGE
 ![image](https://github.com/BatuUzun/Pool-Appointment-System/assets/103521291/64e2a525-48b8-4ae8-ba7b-333c4eb129f1)
 
-# SERVANT LOG IN PAGE
+# SERVANT LOGIN PAGE
 ![image](https://github.com/BatuUzun/Pool-Appointment-System/assets/103521291/48ac0ddb-4bbd-4f34-a67f-b54f41860ec1)
 
-# GENERAL MANAGER LOG IN PAGE
+# GENERAL MANAGER LOGIN PAGE
 ![image](https://github.com/BatuUzun/Pool-Appointment-System/assets/103521291/16717312-e1bb-4da0-a76b-36698bdc7668)
 
 # MANAGER PANEL
